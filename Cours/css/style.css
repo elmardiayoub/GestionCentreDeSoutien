@@ -1,0 +1,27 @@
+#titre
+{
+    margin-top: 30px;
+}
+#trait_dessus 
+{ 
+    border-top: 1px solid #000; 
+    width : 700px; 
+} 
+.row
+{
+    padding: 6px;
+}
+.center_div{
+    margin: 15 auto;
+    width:100% 
+}
+#btn-1, #btn-2
+{
+    margin-top: 10px;
+    box-shadow: 5px 3px 8px #888888;
+    
+}
+
+
+
+
